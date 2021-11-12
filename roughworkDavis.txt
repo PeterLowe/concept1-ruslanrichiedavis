@@ -1,5 +1,6 @@
+
 Title : A Strange Need for Speed in Space
-insert team member names here RuslanRichieDavis
+insert team member names here : RuslanRichieDavis
 
 Elevator pitch 
 Describe your game in 30 seconds or less
@@ -21,3 +22,6 @@ key selling points of your game
 ...
 Market analysis
 similar games , typical customer, expected sales
+
+
+
