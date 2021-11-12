@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Title : A Strange Need for Speed in Space
 insert team member names here RuslanRichieDavis
+
+=======
+<<<<<<<< HEAD:roughwork.txt
+<<<<<<< HEAD:roughworkRuslan.txt
+Ruslan and Davis and Richie
+========
+<<<<<<< HEAD:roughwork.txt
+Title : A Strange need for speed in space
+insert team member names here : RuslanRichieDavis
 
 Elevator pitch 
 Describe your game in 30 seconds or less
@@ -18,3 +28,43 @@ key selling points of your game
 ...
 Market analysis
 similar games , typical customer, expected sales
+=======
+<<<<<<< HEAD
+>>>>>>>> cc3ae7024c88562faee08c366046c07da1a31727:roughworkDavis.txt
+Title : A Strange Need for Speed in Space
+insert team member names here RuslanRichieDavis
+
+Title : A Strange need for speed in space
+insert team member names here : RuslanRichieDavis
+>>>>>>> davis
+>>>>>>> 7f29b194902358cbd8d23639266665a64d2cd107:roughworkDavis.txt
+
+>>>>>>> cc3ae7024c88562faee08c366046c07da1a31727
+Elevator pitch 
+Describe your game in 30 seconds or less
+...
+World Background
+main differences in your game world
+...
+Pillars
+3-4 fundementals of this game
+...
+30 second gameplay description
+describe what its like to play the essence of the game loop
+...
+Features points
+key selling points of your game
+<<<<<<< HEAD
+...
+Market analysis
+similar games , typical customer, expected sales
+=======
+Space rpg where the main combat is racing- players lose and win cars based on their perormance in the race
+Market analysis
+<<<<<<<< HEAD:roughwork.txt
+similar games : GTA 5, former neep for speed games , typical customer : teens and early 20s, expected sales : astronamical gain as the game genre is new and fresh
+========
+similar games , typical customer, expected sales
+>>>>>>> 7f29b194902358cbd8d23639266665a64d2cd107:roughworkDavis.txt
+>>>>>>>> cc3ae7024c88562faee08c366046c07da1a31727:roughworkDavis.txt
+>>>>>>> cc3ae7024c88562faee08c366046c07da1a31727
