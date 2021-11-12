@@ -1,12 +1,7 @@
-<<<<<<< HEAD:roughworkRuslan.txt
+
 Ruslan and Davis and Richie
 Title : A Strange Need for Speed in Space
 insert team member names here RuslanRichieDavis
-
-Title : A Strange need for speed in space
-insert team member names here : RuslanRichieDavis
->>>>>>> davis
->>>>>>> 7f29b194902358cbd8d23639266665a64d2cd107:roughworkDavis.txt
 
 Elevator pitch 
 Describe your game in 30 seconds or less
