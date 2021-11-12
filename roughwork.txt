@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD:roughwork.txt
+
+Ruslan and Davis and Richie
+
+
 Title : A Strange need for speed in space
 insert team member names here : RuslanRichieDavis
 
@@ -11,69 +12,11 @@ World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
-...
-30 second gameplay description
-describe what its like to play the essence of the game loop
-...
-Features points
-key selling points of your game
-...
-Market analysis
-similar games , typical customer, expected sales
-=======
-<<<<<<< HEAD
-Title : A Strange Need for Speed in Space
-insert team member names here RuslanRichieDavis
-=======
-Title : A Strange need for speed in space
-insert team member names here : RuslanRichieDavis
->>>>>>> davis
-
-Elevator pitch 
-Describe your game in 30 seconds or less
-
-World Background
-main differences in your game world
-----------------------------------------------
-Pillars
-3-4 fundementals of this game :
 Rpg - Leveling system , racing game , winning car system , Terrain is changing.
-
-30 second gameplay description :
-Leveling up while racing and unlocking new cars , racing on a rainbow road , the map is constantly changing with falling entities.
-------------------------------------------------
-=======
-=======
->>>>>>> davis
-Title : A Strange Need for Speed in Space
-insert team member names here RuslanRichieDavis
-
-Elevator pitch 
-Describe your game in 30 seconds or less
-...
-World Background
-main differences in your game world
-...
-Pillars
-3-4 fundementals of this game
 ...
 30 second gameplay description
-<<<<<<< HEAD
->>>>>>> davis
-=======
->>>>>>> davis
-describe what its like to play the essence of the game loop
-...
+Leveling up while racing and unlocking new cars , racing on a rainbow road , the map is constantly changing with falling entities....
 Features points
-key selling points of your game
-...
+Space rpg where the main combat is racing- players lose and win cars based on their perormance in the race...
 Market analysis
-similar games , typical customer, expected sales
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 7f29b194902358cbd8d23639266665a64d2cd107:roughworkDavis.txt
-=======
->>>>>>> davis
-=======
->>>>>>> davis
+similar games : GTA 5, former neep for speed games , typical customer : teens and early 20s, expected sales : astronamical gain as the game genre is new and fresh
