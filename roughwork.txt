@@ -1,12 +1,8 @@
 <<<<<<< HEAD:roughworkRuslan.txt
-Ruslan
+Ruslan and Davis and Richie
 Title : A Strange Need for Speed in Space
 insert team member names here RuslanRichieDavis
-=======
-<<<<<<< HEAD
-Title : A Strange Need for Speed in Space
-insert team member names here RuslanRichieDavis
-=======
+
 Title : A Strange need for speed in space
 insert team member names here : RuslanRichieDavis
 >>>>>>> davis
@@ -26,6 +22,6 @@ describe what its like to play the essence of the game loop
 ...
 Features points
 key selling points of your game
-...
+Space rpg where the main combat is racing- players lose and win cars based on their perormance in the race
 Market analysis
-similar games , typical customer, expected sales
+similar games : GTA 5, former neep for speed games , typical customer : teens and early 20s, expected sales : astronamical gain as the game genre is new and fresh
