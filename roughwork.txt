@@ -1,9 +1,16 @@
 
+<<<<<<< HEAD
 Ruslan and Davis and Richie
 
 
 Title : A Strange need for speed in space
 insert team member names here : RuslanRichieDavis
+=======
+Title : A Strange Need for Speed in Space
+
+insert team member names here RuslanRichieDavis
+Ruslan and Davis and Richie
+>>>>>>> davis
 
 Elevator pitch 
 Describe your game in 30 seconds or less
@@ -12,6 +19,7 @@ you journey though the hardships of a combat racer in space and meet many people
 ...
 World Background
 main differences in your game world
+<<<<<<< HEAD
 The terrain of the ring structure changes, bringing about different environments every time. This of course, means different and new events pop up,
 which can drop car parts for upgrading you car. You also have a skill tree for driver and car skills. You can also create your own garage gang and race against other space garage gangs.
 Many elements of a long journey with many great moments and harships.
@@ -24,4 +32,20 @@ Features points
 Space rpg where the main combat is racing- players lose and win cars based on their perormance in the race...
 Market analysis
 similar games : GTA 5, former neep for speed games , typical customer : teens and early 20s, expected sales : astronamical gain as the game genre is new and fresh
+=======
+...
+
+Pillars
+3-4 fundementals of this game :
+Rpg - Leveling system , racing game , winning car system , Terrain is changing.
+
+30 second gameplay description :
+Leveling up while racing and unlocking new cars , racing on a rainbow road , the map is constantly changing with falling entities.
+
+Features points
+key selling points of your game
+...
+Market analysis
+similar games , typical customer, expected sales
+>>>>>>> davis
 
