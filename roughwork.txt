@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:roughwork.txt
 Title : A Strange need for speed in space
 insert team member names here : RuslanRichieDavis
@@ -43,6 +44,8 @@ Rpg - Leveling system , racing game , winning car system , Terrain is changing.
 Leveling up while racing and unlocking new cars , racing on a rainbow road , the map is constantly changing with falling entities.
 ------------------------------------------------
 =======
+=======
+>>>>>>> davis
 Title : A Strange Need for Speed in Space
 insert team member names here RuslanRichieDavis
 
@@ -56,6 +59,9 @@ Pillars
 3-4 fundementals of this game
 ...
 30 second gameplay description
+<<<<<<< HEAD
+>>>>>>> davis
+=======
 >>>>>>> davis
 describe what its like to play the essence of the game loop
 ...
@@ -65,6 +71,9 @@ key selling points of your game
 Market analysis
 similar games , typical customer, expected sales
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7f29b194902358cbd8d23639266665a64d2cd107:roughworkDavis.txt
+=======
+>>>>>>> davis
 =======
 >>>>>>> davis
