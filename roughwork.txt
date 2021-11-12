@@ -3,10 +3,13 @@ insert team member names here RuslanRichieDavis
 
 Elevator pitch 
 Describe your game in 30 seconds or less
-...
+An exiting space racing combat rpg on a halo like ring in space with built in gravity to support terrain changing environments. However,
+you journey though the hardships of a combat racer in space and meet many people, make friends, make enemies and upgrade your car.
 World Background
 main differences in your game world
-...
+The terrain of the ring structure changes, bringing about different environments every time. This of course, means different and new events pop up,
+which can drop car parts for upgrading you car. You also have a skill tree for driver and car skills. You can also create your own garage gang and race against other space garage gangs.
+Many elements of a long journey with many great moments and harships.
 Pillars
 3-4 fundementals of this game
 ...
